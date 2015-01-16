@@ -1,28 +1,7 @@
 == README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Running with the old (and somewhat cliched) tradition found in programming, this is an extremely simple "hello, world" application using Ruby on Rails.
 
-Things you may want to cover:
+I created this application by following Michael Hartl's book found at https://www.railstutorial.org/book
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
-
-
-Please feel free to use a different markup language if you do not plan to run
-<tt>rake doc:app</tt>.
+Fun fact! This is actually a live website hosted on Heroku and can be viewed at https://young-wildwood-1599.herokuapp.com/
